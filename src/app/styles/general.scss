@@ -1,4 +1,4 @@
-.container {
+.wrapper {
   height: 100vh;
   display: flex;
 
@@ -6,9 +6,9 @@
   flex-direction: column;
 }
 
-header,
-footer {
-  height: 30px;
+.header,
+.footer {
+  height: 100%;
 }
 
 main {
