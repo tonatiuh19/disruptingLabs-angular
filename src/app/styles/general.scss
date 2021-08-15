@@ -6,11 +6,12 @@
   flex-direction: column;
 }
 
-.header,
+.header {
+  height: 100%;
+}
 .footer {
   height: 100%;
 }
-
 main {
   flex: 1;
 }
